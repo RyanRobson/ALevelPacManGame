@@ -1,0 +1,157 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+PacManGame
+</name>
+</assembly>
+<members>
+<member name="P:PacManGame.My.Resources.Form1.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:PacManGame.My.Resources.Form1.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:PacManGame.My.Resources.Form1.PBblinky_Image">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PacManGame.My.Resources.Form1.PBBlinkyy_Image">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PacManGame.My.Resources.Form1.PBclyde_Image">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PacManGame.My.Resources.Form1.PBClydee_Image">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PacManGame.My.Resources.Form1.PBInky_Image">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PacManGame.My.Resources.Form1.PBInkyy_Image">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PacManGame.My.Resources.Form1.PBPinky_Image">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PacManGame.My.Resources.Form1.PBPinkyy_Image">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PacManGame.My.Resources.Form1.PictureBox1_Image">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PacManGame.My.Resources.Form1.PictureBox10_Image">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PacManGame.My.Resources.Form1.PictureBox2_Image">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PacManGame.My.Resources.Form1.PictureBox3_Image">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PacManGame.My.Resources.Form1.PictureBox4_Image">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PacManGame.My.Resources.Form1.PictureBox5_Image">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PacManGame.My.Resources.Form1.PictureBox6_Image">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PacManGame.My.Resources.Form1.PictureBox7_Image">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PacManGame.My.Resources.Form1.PictureBox8_Image">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PacManGame.My.Resources.Form1.PictureBox9_Image">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PacManGame.My.Resources.Form1.TMRGhost1_TrayLocation">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Point similar to {X=317,Y=20}.
+</summary>
+</member><member name="P:PacManGame.My.Resources.Form1.TMRGhost2_TrayLocation">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Point similar to {X=421,Y=19}.
+</summary>
+</member><member name="P:PacManGame.My.Resources.Form1.TMRGhost2Junctions_TrayLocation">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Point similar to {X=530,Y=19}.
+</summary>
+</member><member name="P:PacManGame.My.Resources.Form1.TMRGhost3_TrayLocation">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Point similar to {X=665,Y=22}.
+</summary>
+</member><member name="P:PacManGame.My.Resources.Form1.TMRGhost4_TrayLocation">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Point similar to {X=757,Y=23}.
+</summary>
+</member><member name="P:PacManGame.My.Resources.Form1.TMRHitghost_TrayLocation">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Point similar to {X=215,Y=19}.
+</summary>
+</member><member name="P:PacManGame.My.Resources.Form1.TMRNextLevel_TrayLocation">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Point similar to {X=1268,Y=22}.
+</summary>
+</member><member name="P:PacManGame.My.Resources.Form1.TMRPlayerScore_TrayLocation">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Point similar to {X=1136,Y=22}.
+</summary>
+</member><member name="P:PacManGame.My.Resources.Form1.TMRPowerPelletCollision_TrayLocation">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Point similar to {X=987,Y=24}.
+</summary>
+</member><member name="P:PacManGame.My.Resources.Form1.TMRPowerPelletTime_TrayLocation">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Point similar to {X=848,Y=26}.
+</summary>
+</member><member name="P:PacManGame.My.Resources.Form1.TMRTimeCounter_TrayLocation">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Point similar to {X=94,Y=19}.
+</summary>
+</member><member name="P:PacManGame.My.Resources.Form1.TMRVelocity_TrayLocation">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Point similar to {X=-2,Y=22}.
+</summary>
+</member><member name="T:PacManGame.My.Resources.Form1">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="P:PacManGame.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:PacManGame.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:PacManGame.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>
